@@ -1,0 +1,86 @@
+22/09
+Installation des drivers 
+https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
+
+configuration de l'IDE
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
+Etablissement d'une connection série:
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/establish-serial-connection.html
+
+
+23/09
+guide de démarage : 
+https://usini.github.io/esp32s2_doc/
+
+pinout and Arduino IDE config:
+https://www.mischianti.org/2020/12/01/esp32-s2-pinout-specs-and-arduino-ide-configuration-1/
+
+i2c communication : 
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-reference/peripherals/i2c.html
+
+official site : 
+http://www.lilygo.cn/prod_view.aspx?TypeId=50063&Id=1300&FId=t3:50063:3
+
+flasher micro python
+https://arduino103.blogspot.com/2020/09/flasher-micropython-sur-un-esp32.html
+
+01/10
+esp32 s2 and max30100
+https://how2electronics.com/esp32-max30100-pulse-oximeter-blynk/
+
+Deboguage esp32
+https://electronicsinnovation.com/solved-max30100-not-working-initializing-pulse-oximeter-failed/
+https://www.youtube.com/watch?v=ZqdmA4NAqb0
+
+04/10
+Dimensionement transistor
+https://www.theengineeringprojects.com/2020/08/introduction-to-bc337.html
+
+
+06/10
+Communication Bluetooth esp to Smartphone 
+https://electroniqueamateur.blogspot.com/2019/10/bluetooth-serie-avec-lesp32.html
+
+Communication entre 2 esp 
+https://github.com/CrazyRobMiles/SimpleESP32BluetoothBLE 
+
+08/10
+Communication esp vers computer 
+https://loginov-rocks.medium.com/how-to-make-a-web-app-for-your-own-bluetooth-low-energy-device-arduino-2af8d16fdbe8
+
+11/10
+Insallation Arduini IDE on Raspberry pi 
+https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/
+
+Activation/configuration du bluetooth sur Raspberry
+https://howchoo.com/pi/bluetooth-raspberry-pi
+
+Communication Bluetooth via Raspi
+https://raspberry-projects.com/pi/pi-operating-systems/raspbian/bluetooth/serial-over-bluetooth
+
+12/10
+Envoie des données sur le port SerialBluetooth
+https://electroniqueamateur.blogspot.com/2019/10/bluetooth-serie-avec-lesp32.html
+
+Lecture du port SerialBluetooth du Raspberry pi
+https://pimylifeup.com/raspberry-pi-serial/
+
+15/10
+Fonctionnement du saturomètre
+https://www.mediprostore.com/fonctionnement-oxymetre
+
+18/10
+Dimensionnement du circuit 2 (Pneumatique)
+https://arduino103.blogspot.com/2011/05/quelques-revisions-sur-les-transistors_31.html?m=1
+
+22/10
+Arduino with Python LESSON 11: Graphing and Plotting Live Data from Arduino with Matplotlib
+https://www.youtube.com/watch?v=zH0MGNJbenc
+
+Python run on Raspberry Pi to plot serial data from ESP8266/NodeMCU
+http://arduino-er.blogspot.com/2017/06/python-run-on-raspberry-pi-to-plot.html
+
+28/10
+Matplotlib cheatsheets
+https://github.com/matplotlib/cheatsheets#cheatsheets
